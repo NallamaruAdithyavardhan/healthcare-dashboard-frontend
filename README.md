@@ -1,5 +1,5 @@
 # 🏥 Healthcare Dashboard (Frontend)
-https://github.com/NallamaruAdithyavardhan/healthcare-dashboard-frontend/
+https://nallamaruadithyavardhan.github.io/healthcare-dashboard-frontend/
 
 ![Dashboard Banner](./assets/dashboard.png)
 
