@@ -1,5 +1,5 @@
 # 🏥 Healthcare Dashboard (Frontend)
-
+https://github.com/NallamaruAdithyavardhan/healthcare-dashboard-frontend/settings/pages
 ![Dashboard Banner](./assets/dashboard.png)
 
 A modern and responsive **Healthcare Dashboard UI** built to manage patient data, visualize diagnosis history, and monitor vital signs in a clean and intuitive interface.
